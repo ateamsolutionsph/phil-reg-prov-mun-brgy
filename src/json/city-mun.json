@@ -745,6 +745,11 @@
         "mun_code": "021518"
     },
     {
+        "name": "PEÑABLANCA",
+        "prov_code": "0215",
+        "mun_code": "021519"
+    },
+    {
         "name": "PIAT",
         "prov_code": "0215",
         "mun_code": "021520"
@@ -773,6 +778,11 @@
         "name": "SANTA TERESITA",
         "prov_code": "0215",
         "mun_code": "021525"
+    },
+    {
+        "name": "SANTO NIÑO (FAIRE)",
+        "prov_code": "0215",
+        "mun_code": "021526"
     },
     {
         "name": "SOLANA",
@@ -1175,6 +1185,11 @@
         "mun_code": "031407"
     },
     {
+        "name": "DOÑA REMEDIOS TRINIDAD",
+        "prov_code": "0314",
+        "mun_code": "031424"
+    },
+    {
         "name": "GUIGUINTO",
         "prov_code": "0314",
         "mun_code": "031408"
@@ -1335,6 +1350,11 @@
         "mun_code": "034916"
     },
     {
+        "name": "SCIENCE CITY OF MUÑOZ",
+        "prov_code": "0349",
+        "mun_code": "034917"
+    },
+    {
         "name": "NAMPICUAN",
         "prov_code": "0349",
         "mun_code": "034918"
@@ -1348,6 +1368,11 @@
         "name": "PANTABANGAN",
         "prov_code": "0349",
         "mun_code": "034920"
+    },
+    {
+        "name": "PEÑARANDA",
+        "prov_code": "0349",
+        "mun_code": "034921"
     },
     {
         "name": "QUEZON",
@@ -1910,6 +1935,11 @@
         "mun_code": "042105"
     },
     {
+        "name": "DASMARIÑAS CITY",
+        "prov_code": "0421",
+        "mun_code": "042106"
+    },
+    {
         "name": "GENERAL EMILIO AGUINALDO",
         "prov_code": "0421",
         "mun_code": "042107"
@@ -1940,9 +1970,19 @@
         "mun_code": "042112"
     },
     {
+        "name": "GEN. MARIANO ALVAREZ",
+        "prov_code": "0421",
+        "mun_code": "042123"
+    },
+    {
         "name": "MARAGONDON",
         "prov_code": "0421",
         "mun_code": "042113"
+    },
+    {
+        "name": "MENDEZ (MENDEZ-NUÑEZ)",
+        "prov_code": "0421",
+        "mun_code": "042114"
     },
     {
         "name": "NAIC",
@@ -1983,11 +2023,6 @@
         "name": "TRECE MARTIRES CITY (Capital)",
         "prov_code": "0421",
         "mun_code": "042122"
-    },
-    {
-        "name": "GEN. MARIANO ALVAREZ",
-        "prov_code": "0421",
-        "mun_code": "042123"
     },
     {
         "name": "ALAMINOS",
@@ -2038,6 +2073,11 @@
         "name": "LILIW",
         "prov_code": "0434",
         "mun_code": "043410"
+    },
+    {
+        "name": "LOS BAÑOS",
+        "prov_code": "0434",
+        "mun_code": "043411"
     },
     {
         "name": "LUISIANA",
@@ -2615,6 +2655,11 @@
         "mun_code": "175309"
     },
     {
+        "name": "CULION",
+        "prov_code": "1753",
+        "mun_code": "175322"
+    },
+    {
         "name": "CUYO",
         "prov_code": "1753",
         "mun_code": "175310"
@@ -2628,6 +2673,11 @@
         "name": "EL NIDO (BACUIT)",
         "prov_code": "1753",
         "mun_code": "175312"
+    },
+    {
+        "name": "KALAYAAN",
+        "prov_code": "1753",
+        "mun_code": "175321"
     },
     {
         "name": "LINAPACAN",
@@ -2655,6 +2705,11 @@
         "mun_code": "175317"
     },
     {
+        "name": "RIZAL (MARCOS)",
+        "prov_code": "1753",
+        "mun_code": "175323"
+    },
+    {
         "name": "ROXAS",
         "prov_code": "1753",
         "mun_code": "175318"
@@ -2665,24 +2720,14 @@
         "mun_code": "175319"
     },
     {
+        "name": "SOFRONIO ESPAÑOLA",
+        "prov_code": "1753",
+        "mun_code": "175324"
+    },
+    {
         "name": "TAYTAY",
         "prov_code": "1753",
         "mun_code": "175320"
-    },
-    {
-        "name": "KALAYAAN",
-        "prov_code": "1753",
-        "mun_code": "175321"
-    },
-    {
-        "name": "CULION",
-        "prov_code": "1753",
-        "mun_code": "175322"
-    },
-    {
-        "name": "RIZAL (MARCOS)",
-        "prov_code": "1753",
-        "mun_code": "175323"
     },
     {
         "name": "ALCANTARA",
@@ -2713,6 +2758,11 @@
         "name": "CORCUERA",
         "prov_code": "1759",
         "mun_code": "175906"
+    },
+    {
+        "name": "FERROL",
+        "prov_code": "1759",
+        "mun_code": "175916"
     },
     {
         "name": "LOOC",
@@ -2758,11 +2808,6 @@
         "name": "SANTA FE",
         "prov_code": "1759",
         "mun_code": "175915"
-    },
-    {
-        "name": "FERROL",
-        "prov_code": "1759",
-        "mun_code": "175916"
     },
     {
         "name": "SANTA MARIA (IMELDA)",
@@ -3068,6 +3113,11 @@
         "name": "RAGAY",
         "prov_code": "0517",
         "mun_code": "051730"
+    },
+    {
+        "name": "SAGÑAY",
+        "prov_code": "0517",
+        "mun_code": "051731"
     },
     {
         "name": "SAN FERNANDO",
@@ -3668,6 +3718,11 @@
         "name": "DINGLE",
         "prov_code": "0630",
         "mun_code": "063016"
+    },
+    {
+        "name": "DUEÑAS",
+        "prov_code": "0630",
+        "mun_code": "063017"
     },
     {
         "name": "DUMANGAS",
@@ -5190,6 +5245,11 @@
         "mun_code": "086017"
     },
     {
+        "name": "SANTO NIÑO",
+        "prov_code": "0860",
+        "mun_code": "086018"
+    },
+    {
         "name": "TALALORA",
         "prov_code": "0860",
         "mun_code": "086019"
@@ -5405,6 +5465,11 @@
         "mun_code": "097208"
     },
     {
+        "name": "PIÑAN (NEW PIÑAN)",
+        "prov_code": "0972",
+        "mun_code": "097209"
+    },
+    {
         "name": "POLANCO",
         "prov_code": "0972",
         "mun_code": "097210"
@@ -5423,6 +5488,11 @@
         "name": "SALUG",
         "prov_code": "0972",
         "mun_code": "097213"
+    },
+    {
+        "name": "SERGIO OSMEÑA SR.",
+        "prov_code": "0972",
+        "mun_code": "097214"
     },
     {
         "name": "SIAYAN",
@@ -6890,6 +6960,11 @@
         "mun_code": "140116"
     },
     {
+        "name": "PEÑARRUBIA",
+        "prov_code": "1401",
+        "mun_code": "140117"
+    },
+    {
         "name": "PIDIGAN",
         "prov_code": "1401",
         "mun_code": "140118"
@@ -7250,6 +7325,11 @@
         "mun_code": "150713"
     },
     {
+        "name": "ISABELA CITY",
+        "prov_code": "1507",
+        "mun_code": "150714"
+    },
+    {
         "name": "BACOLOD-KALAWI (BACOLOD GRANDE)",
         "prov_code": "1536",
         "mun_code": "153601"
@@ -7463,6 +7543,11 @@
         "name": "BULUAN",
         "prov_code": "1538",
         "mun_code": "153803"
+    },
+    {
+        "name": "COTABATO CITY",
+        "prov_code": "1538",
+        "mun_code": "153804"
     },
     {
         "name": "DATU PAGLAS",
