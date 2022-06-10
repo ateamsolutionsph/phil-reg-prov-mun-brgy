@@ -5875,11 +5875,6 @@
         "mun_code": "103505"
     },
     {
-        "name": "SULTAN NAGA DIMAPORO (KAROMATAN)",
-        "prov_code": "1035",
-        "mun_code": "103506"
-    },
-    {
         "name": "KAUSWAGAN",
         "prov_code": "1035",
         "mun_code": "103507"
@@ -5930,6 +5925,11 @@
         "mun_code": "103516"
     },
     {
+        "name": "PANTAR",
+        "prov_code": "1035",
+        "mun_code": "103523"
+    },
+    {
         "name": "POONA PIAGAPO",
         "prov_code": "1035",
         "mun_code": "103517"
@@ -5945,6 +5945,11 @@
         "mun_code": "103519"
     },
     {
+        "name": "SULTAN NAGA DIMAPORO (KAROMATAN)",
+        "prov_code": "1035",
+        "mun_code": "103506"
+    },
+    {
         "name": "TAGOLOAN",
         "prov_code": "1035",
         "mun_code": "103520"
@@ -5958,11 +5963,6 @@
         "name": "TUBOD (Capital)",
         "prov_code": "1035",
         "mun_code": "103522"
-    },
-    {
-        "name": "PANTAR",
-        "prov_code": "1035",
-        "mun_code": "103523"
     },
     {
         "name": "ALORAN",
@@ -5993,6 +5993,11 @@
         "name": "CONCEPCION",
         "prov_code": "1042",
         "mun_code": "104206"
+    },
+    {
+        "name": "DON VICTORIANO CHIONGBIAN (DON MARIANO MARCOS)",
+        "prov_code": "1042",
+        "mun_code": "104217"
     },
     {
         "name": "JIMENEZ",
@@ -6043,11 +6048,6 @@
         "name": "TUDELA",
         "prov_code": "1042",
         "mun_code": "104216"
-    },
-    {
-        "name": "DON VICTORIANO CHIONGBIAN (DON MARIANO MARCOS)",
-        "prov_code": "1042",
-        "mun_code": "104217"
     },
     {
         "name": "ALUBIJID",
@@ -6355,6 +6355,11 @@
         "mun_code": "118202"
     },
     {
+        "name": "MABINI (DOÑA ALICIA)",
+        "prov_code": "1182",
+        "mun_code": "118212"
+    },
+    {
         "name": "MACO",
         "prov_code": "1182",
         "mun_code": "118204"
@@ -6525,6 +6530,11 @@
         "mun_code": "126306"
     },
     {
+        "name": "LAKE SEBU",
+        "prov_code": "1263",
+        "mun_code": "126319"
+    },
+    {
         "name": "NORALA",
         "prov_code": "1263",
         "mun_code": "126311"
@@ -6535,9 +6545,19 @@
         "mun_code": "126312"
     },
     {
+        "name": "SANTO NIÑO",
+        "prov_code": "1263",
+        "mun_code": "126318"
+    },
+    {
         "name": "SURALLAH",
         "prov_code": "1263",
         "mun_code": "126313"
+    },
+    {
+        "name": "T'BOLI",
+        "prov_code": "1263",
+        "mun_code": "126316"
     },
     {
         "name": "TAMPAKAN",
@@ -6550,19 +6570,9 @@
         "mun_code": "126315"
     },
     {
-        "name": "T'BOLI",
-        "prov_code": "1263",
-        "mun_code": "126316"
-    },
-    {
         "name": "TUPI",
         "prov_code": "1263",
         "mun_code": "126317"
-    },
-    {
-        "name": "LAKE SEBU",
-        "prov_code": "1263",
-        "mun_code": "126319"
     },
     {
         "name": "BAGUMBAYAN",
@@ -6808,6 +6818,91 @@
         "name": "TAGUIG CITY",
         "prov_code": "1376",
         "mun_code": "137607"
+    },
+    {
+        "name": "MANILA",
+        "prov_code": "1377",
+        "mun_code": "137701"
+    },
+    {
+        "name": "CALOOCAN CITY",
+        "prov_code": "1377",
+        "mun_code": "137702"
+    },
+    {
+        "name": "LAS PIÑAS CITY",
+        "prov_code": "1377",
+        "mun_code": "137703"
+    },
+    {
+        "name": "MAKATI CITY",
+        "prov_code": "1377",
+        "mun_code": "137704"
+    },
+    {
+        "name": "MALABON CITY",
+        "prov_code": "1377",
+        "mun_code": "137705"
+    },
+    {
+        "name": "MANDALUYONG CITY",
+        "prov_code": "1377",
+        "mun_code": "137706"
+    },
+    {
+        "name": "MARIKINI CITY",
+        "prov_code": "1377",
+        "mun_code": "137707"
+    },
+    {
+        "name": "MUNTINLUPA CITY",
+        "prov_code": "1377",
+        "mun_code": "137708"
+    },
+    {
+        "name": "NAVOTAS CITY",
+        "prov_code": "1377",
+        "mun_code": "137709"
+    },
+    {
+        "name": "PARAÑAQUE CITY",
+        "prov_code": "1377",
+        "mun_code": "137710"
+    },
+    {
+        "name": "PASAY CITY",
+        "prov_code": "1377",
+        "mun_code": "137711"
+    },
+    {
+        "name": "PASIG CITY",
+        "prov_code": "1377",
+        "mun_code": "137712"
+    },
+    {
+        "name": "QUEZON CITY",
+        "prov_code": "1377",
+        "mun_code": "137713"
+    },
+    {
+        "name": "SAN JUAN CITY",
+        "prov_code": "1377",
+        "mun_code": "137714"
+    },
+    {
+        "name": "TAGUIG CITY",
+        "prov_code": "1377",
+        "mun_code": "137715"
+    },
+    {
+        "name": "VALENZUELA CITY",
+        "prov_code": "1377",
+        "mun_code": "137716"
+    },
+    {
+        "name": "PATEROS",
+        "prov_code": "1377",
+        "mun_code": "137716"
     },
     {
         "name": "BANGUED (Capital)",

@@ -285,6 +285,11 @@
         "prov_code": "1043"
     },
     {
+        "name": "COMPOSTELA VALLEY",
+        "reg_code": "11",
+        "prov_code": "1182"
+    },
+    {
         "name": "DAVAO DEL NORTE",
         "reg_code": "11",
         "prov_code": "1123"
@@ -295,24 +300,29 @@
         "prov_code": "1124"
     },
     {
-        "name": "DAVAO ORIENTAL",
-        "reg_code": "11",
-        "prov_code": "1125"
-    },
-    {
-        "name": "COMPOSTELA VALLEY",
-        "reg_code": "11",
-        "prov_code": "1182"
-    },
-    {
         "name": "DAVAO OCCIDENTAL",
         "reg_code": "11",
         "prov_code": "1186"
     },
     {
+        "name": "DAVAO ORIENTAL",
+        "reg_code": "11",
+        "prov_code": "1125"
+    },
+    {
         "name": "COTABATO (NORTH COTABATO)",
         "reg_code": "12",
         "prov_code": "1247"
+    },
+    {
+        "name": "COTABATO CITY",
+        "reg_code": "12",
+        "prov_code": "1298"
+    },
+    {
+        "name": "SARANGANI",
+        "reg_code": "12",
+        "prov_code": "1280"
     },
     {
         "name": "SOUTH COTABATO",
@@ -325,38 +335,33 @@
         "prov_code": "1265"
     },
     {
-        "name": "SARANGANI",
-        "reg_code": "12",
-        "prov_code": "1280"
-    },
-    {
-        "name": "COTABATO CITY",
-        "reg_code": "12",
-        "prov_code": "1298"
+        "name": "METRO MANILA",
+        "reg_code": "13",
+        "prov_code": "1377"
     },
     {
         "name": "NCR, CITY OF MANILA, FIRST DISTRICT",
-        "reg_code": "13",
+        "reg_code": "17",
         "prov_code": "1339"
     },
     {
         "name": "CITY OF MANILA",
-        "reg_code": "13",
+        "reg_code": "17",
         "prov_code": "1339"
     },
     {
         "name": "NCR, SECOND DISTRICT",
-        "reg_code": "13",
+        "reg_code": "17",
         "prov_code": "1374"
     },
     {
         "name": "NCR, THIRD DISTRICT",
-        "reg_code": "13",
+        "reg_code": "17",
         "prov_code": "1375"
     },
     {
         "name": "NCR, FOURTH DISTRICT",
-        "reg_code": "13",
+        "reg_code": "17",
         "prov_code": "1376"
     },
     {
@@ -425,6 +430,11 @@
         "prov_code": "1603"
     },
     {
+        "name": "DINAGAT ISLANDS",
+        "reg_code": "16",
+        "prov_code": "1685"
+    },
+    {
         "name": "SURIGAO DEL NORTE",
         "reg_code": "16",
         "prov_code": "1667"
@@ -433,10 +443,5 @@
         "name": "SURIGAO DEL SUR",
         "reg_code": "16",
         "prov_code": "1668"
-    },
-    {
-        "name": "DINAGAT ISLANDS",
-        "reg_code": "16",
-        "prov_code": "1685"
     }
 ]
