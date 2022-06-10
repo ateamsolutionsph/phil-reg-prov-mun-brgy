@@ -45,6 +45,11 @@
         "prov_code": "0257"
     },
     {
+        "name": "AURORA",
+        "reg_code": "03",
+        "prov_code": "0377"
+    },
+    {
         "name": "BATAAN",
         "reg_code": "03",
         "prov_code": "0308"
@@ -73,11 +78,6 @@
         "name": "ZAMBALES",
         "reg_code": "03",
         "prov_code": "0371"
-    },
-    {
-        "name": "AURORA",
-        "reg_code": "03",
-        "prov_code": "0377"
     },
     {
         "name": "BATANGAS",
@@ -175,6 +175,11 @@
         "prov_code": "0619"
     },
     {
+        "name": "GUIMARAS",
+        "reg_code": "06",
+        "prov_code": "0679"
+    },
+    {
         "name": "ILOILO",
         "reg_code": "06",
         "prov_code": "0630"
@@ -183,11 +188,6 @@
         "name": "NEGROS OCCIDENTAL",
         "reg_code": "06",
         "prov_code": "0645"
-    },
-    {
-        "name": "GUIMARAS",
-        "reg_code": "06",
-        "prov_code": "0679"
     },
     {
         "name": "BOHOL",
@@ -208,6 +208,11 @@
         "name": "SIQUIJOR",
         "reg_code": "07",
         "prov_code": "0761"
+    },
+    {
+        "name": "BILIRAN",
+        "reg_code": "08",
+        "prov_code": "0878"
     },
     {
         "name": "EASTERN SAMAR",
@@ -233,11 +238,6 @@
         "name": "SOUTHERN LEYTE",
         "reg_code": "08",
         "prov_code": "0864"
-    },
-    {
-        "name": "BILIRAN",
-        "reg_code": "08",
-        "prov_code": "0878"
     },
     {
         "name": "ZAMBOANGA DEL NORTE",
